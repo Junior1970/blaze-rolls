@@ -27,7 +27,7 @@ class App extends React.Component {
     super(props);
     this.state = {
       server_seed: "",
-      amount: 10
+      amount: 2662
     };
   }
   render() {
